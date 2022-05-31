@@ -1,0 +1,12 @@
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\bin\Debug\net6.0\PizzaPlacenop.Shared.deps.json
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\bin\Debug\net6.0\PizzaPlacenop.Shared.dll
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\bin\Debug\net6.0\PizzaPlacenop.Shared.pdb
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlacenop.Shared.csproj.AssemblyReference.cache
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlacenop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlacenop.Shared.AssemblyInfoInputs.cache
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlacenop.Shared.AssemblyInfo.cs
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlacenop.Shared.csproj.CoreCompileInputs.cache
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlacenop.Shared.dll
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\refint\PizzaPlacenop.Shared.dll
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlacenop.Shared.pdb
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\ref\PizzaPlacenop.Shared.dll

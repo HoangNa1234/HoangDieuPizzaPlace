@@ -1,0 +1,8 @@
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlacenop.Server.csproj.AssemblyReference.cache
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlacenop.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlacenop.Server.AssemblyInfoInputs.cache
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlacenop.Server.AssemblyInfo.cs
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlacenop.Server.csproj.CoreCompileInputs.cache
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlacenop.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlacenop.Server.RazorAssemblyInfo.cache
+D:\Visual2022\bttl\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlacenop.Server.RazorAssemblyInfo.cs
